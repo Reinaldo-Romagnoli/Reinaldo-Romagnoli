@@ -5,14 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I am currently looking for a dev job
+- 🌱 I’m currently learning mobile development
+- 👯 I’m looking to collaborate on add knowledge and face new challenges
+- 💬 Ask me about front end development
 - ⚡ Fun fact: I have a social project about AUT
--
 
 ##
 
@@ -26,6 +23,6 @@ Here are some ideas to get you started:
 
 <div>
    <a href = "mailto:romagnolireinaldo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/isabelly-martins-mota-060365229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/reinaldo-romagnoli-4704891b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/Reinaldo-Romagnoli" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
 </div>
