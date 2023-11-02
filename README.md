@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I am currently looking for a dev job
-- 🌱 I’m currently learning mobile development
+- 🔭 I'm a FullStack developer at Infoecia
+- 🌱 I am currently improving my knowledge in Flutter and SQL
 - 👯 I’m looking to collaborate on add knowledge and face new challenges
 - 💬 Ask me about front end development
 - ⚡ Fun fact: I have a social project about AUT
